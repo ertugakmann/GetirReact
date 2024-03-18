@@ -19,6 +19,10 @@ export default {
         "second-brand-color": "#7849f7",
         "primary-brand-color": "#5d3ebc",
         "brand-color": "#4c3398",
+        "brand-yellow": "#FFD301",
+      }),
+      colors: (theme) => ({
+        "brand-yellow": " #FFD301",
       }),
     },
   },
