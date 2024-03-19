@@ -86,7 +86,7 @@ function HeroSection() {
               Telefon numarası ile devam et
             </button>
             <div className="h-[1px] bg-gray-300 my-3"></div>
-            <button className="bg-blue-700 bg-opacity-10 text-blue-700 text-opacity-80 h-12 flex items-center justify-center transition-colors  hover:bg-primary-brand-color hover:text-brand-yellow rounded-md w-full text-brand-color font-semibold">
+            <button className="bg-blue-700 bg-opacity-10 text-blue-700 text-opacity-80 h-12 flex items-center justify-center transition-colors  hover:bg-primary-brand-color hover:text-brand-yellow rounded-md w-full  font-semibold">
               <FaFacebook className="mr-2" size={18} />
               Facebook ile devam et
             </button>
