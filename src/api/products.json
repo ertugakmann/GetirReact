@@ -96,19 +96,5 @@
     "image": "https://cdn.getir.com/product/5ccaf4ff1a1763000175a869_tr_1580904995656.jpeg",
     "alt": "180 g",
     "price": 10.95
-  },
-  {
-    "id": 15,
-    "title": "Magnum Badem",
-    "image": "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
-    "alt": "100 ml",
-    "price": 7.5
-  },
-  {
-    "id": 16,
-    "title": "İçim %3 Yağlı Süt",
-    "image": "https://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg",
-    "alt": "1 L",
-    "price": 7.95
   }
 ]
