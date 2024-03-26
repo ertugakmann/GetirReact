@@ -3,7 +3,7 @@ import React from "react";
 function MobileApp() {
   return (
     <div className="bg-primary-brand-color flex justify-between bg-mobile-app  mt-7 rounded-lg text-white">
-      <div className="flex flex-col gap-y-3 p-10">
+      <div className="flex flex-col gap-y-3 p-12">
         <h3 className="text-2xl font-bold tracking-tight">Getir'i İndirin!</h3>
         <p className="font-sm text-base ">
           İstediğiniz ürünleri dakikalar içinde kapınıza <br /> getirelim.
