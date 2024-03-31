@@ -31,7 +31,7 @@ function HeroSection() {
     <div className=" relative before:bg-gradient-to-r  before:from-primary-brand-color before:to-transparent before:absolute before:inset-0 before:h-full before:z-10">
       <Slider {...settings}>
         <img
-          className="w-full h-[500px] object-cover"
+          className="w-full h-[470px] object-cover"
           data-testid="main-image"
           src="https://cdn.getir.com/getirweb-images/common/hero-posters/getir-mainpage-1.jpg"
           alt="getir"
@@ -40,7 +40,7 @@ function HeroSection() {
         />
 
         <img
-          className="w-full h-[500px] object-cover"
+          className="w-full h-[470px] object-cover"
           data-testid="main-image"
           src="https://cdn.getir.com/getirweb-images/common/hero-posters/getir-mainpage-2.jpg"
           alt="getir"

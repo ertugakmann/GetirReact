@@ -5,7 +5,7 @@ function MobileApp() {
     <div className="bg-primary-brand-color flex justify-between bg-mobile-app  mt-7 rounded-lg text-white">
       <div className="flex flex-col gap-y-3 p-12">
         <h3 className="text-2xl font-bold tracking-tight">Getir'i İndirin!</h3>
-        <p className="font-sm text-base ">
+        <p className="font-sm text-base">
           İstediğiniz ürünleri dakikalar içinde kapınıza <br /> getirelim.
         </p>
         <nav className="mt-5 flex gap-x-3">
